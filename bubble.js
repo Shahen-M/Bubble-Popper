@@ -3,7 +3,7 @@ function Bubble(x, y) {
   this.x = x;
   this.y = y;
 
-	this.velX = 0;
+  this.velX = 0;
   this.velY = 5;
 
   this.bounds = function() {
